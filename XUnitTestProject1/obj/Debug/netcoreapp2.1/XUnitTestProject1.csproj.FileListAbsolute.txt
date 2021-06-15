@@ -1,0 +1,17 @@
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\XUnitTestProject1.pdb
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\IndividualKata.dll
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\bin\Debug\netcoreapp2.1\IndividualKata.pdb
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\maria\source\repos\IndividualKata\XUnitTestProject1\obj\Debug\netcoreapp2.1\XUnitTestProject1.pdb

@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\bin\Debug\netcoreapp2.1\IndividualKata.deps.json
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\bin\Debug\netcoreapp2.1\IndividualKata.runtimeconfig.json
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\bin\Debug\netcoreapp2.1\IndividualKata.runtimeconfig.dev.json
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\bin\Debug\netcoreapp2.1\IndividualKata.dll
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\bin\Debug\netcoreapp2.1\IndividualKata.pdb
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\obj\Debug\netcoreapp2.1\IndividualKata.csprojAssemblyReference.cache
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\obj\Debug\netcoreapp2.1\IndividualKata.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\obj\Debug\netcoreapp2.1\IndividualKata.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\obj\Debug\netcoreapp2.1\IndividualKata.AssemblyInfo.cs
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\obj\Debug\netcoreapp2.1\IndividualKata.dll
+C:\Users\maria\source\repos\IndividualKata\IndividualKata\obj\Debug\netcoreapp2.1\IndividualKata.pdb
